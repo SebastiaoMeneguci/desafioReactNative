@@ -5,7 +5,7 @@ Aplicativo feito utilizando o @expo em React Native / Javascript que le a api da
 
 - title
 
--pageCount
+- pageCount
 
 - thumbnail
 
